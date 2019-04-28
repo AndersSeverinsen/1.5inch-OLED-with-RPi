@@ -27,6 +27,7 @@
  
 import DEV_Config
 import OLED_Driver
+import RPi.GPIO as GPIO
 
 import Image
 import ImageDraw
@@ -68,8 +69,9 @@ def main():
 	#while (True):
 	
 if __name__ == '__main__':
-    main()
-
-#except:
-#	print("except")
-#	GPIO.cleanup()
+    try:
+		main()
+	except IndexError:
+		pass
+	finally:
+		GPIO.cleanup()
