@@ -1,6 +1,11 @@
-# OLED-Driver-For-RPi
+# RPi Digital LED Thermometer
 
-### OLED Drivers and Libraries for Waveshare 1.5" OLED.
+Code By Anders Severinsen
+2019-2020
+License: Creative Commons - Attribution - Non-Commercial - Share Alike
+
+### LED Thermometer Code, OLED Drivers and Libraries
+#### Sources:
 Installation Guide: https://www.waveshare.com/wiki/Libraries_Installation_for_RPi <br />
 Display Wiki in pdf: https://www.waveshare.com/w/upload/8/80/1.5inch_OLED_Module_User_Manual_EN.pdf <br />
 Display Wiki website: https://www.waveshare.com/wiki/1.5inch_OLED_Module <br />

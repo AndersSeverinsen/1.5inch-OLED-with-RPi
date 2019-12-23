@@ -39,8 +39,8 @@ GPIO.setup(OLED_RST_PIN, GPIO.OUT)
 GPIO.setup(OLED_DC_PIN, GPIO.OUT)
 GPIO.setup(OLED_CS_PIN, GPIO.OUT)
 
-USE_SPI_4W = 1
-USE_I2C = 0
+USE_SPI_4W = 0
+USE_I2C = 1
 if USE_SPI_4W == 1:#Initialize SPI	
 	SPI = spidev.SpiDev(0, 0)
 	SPI.max_speed_hz = 9000000
