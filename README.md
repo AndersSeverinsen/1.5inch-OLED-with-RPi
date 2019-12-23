@@ -1,8 +1,8 @@
 # RPi Digital LED Thermometer
 
-Code By Anders Severinsen
-2019-2020
-License: Creative Commons - Attribution - Non-Commercial - Share Alike
+Code By Anders Severinsen <br />
+2019-2020 <br />
+License: Creative Commons - Attribution - Non-Commercial - Share Alike <br />
 
 ### LED Thermometer Code, OLED Drivers and Libraries
 #### Sources:
