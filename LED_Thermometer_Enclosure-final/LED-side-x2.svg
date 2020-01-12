@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.700787402"
+   height="1122.51968504"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="LED-side-x2.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="667"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="0.42048262"
+     inkscape:cx="775.44236"
+     inkscape:cy="935.01075"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g20" />
+  <desc
+     id="desc2">/Users/andersseverinsen/Desktop/LED-side.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs16">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path4" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path11" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g20">
+    <path
+       d="M 1398.7014,43.40454 V 96.31793 H 45.630549 V 43.40454 h 15.11811 V 69.86123 H 75.866766 V 43.40454 h 47.244104 v 26.45669 h 15.11811 V 43.40454 h 47.24409 v 26.45669 h 15.11811 V 43.40454 h 47.2441 v 26.45669 h 15.11811 V 43.40454 h 47.24409 v 26.45669 h 15.11811 V 43.40454 h 47.2441 V 69.86123 H 387.6778 V 43.40454 h 47.24409 V 69.86123 H 450.04 V 43.40454 h 47.2441 v 26.45669 h 15.11811 V 43.40454 h 47.24409 v 26.45669 h 15.11811 V 43.40454 h 47.2441 v 26.45669 h 15.11811 V 43.40454 h 47.24409 v 26.45669 h 15.11811 V 43.40454 h 47.24409 v 26.45669 h 15.11812 V 43.40454 h 47.24409 v 26.45669 h 15.11811 V 43.40454 h 47.24409 v 26.45669 h 15.11811 V 43.40454 h 47.2441 v 26.45669 h 15.11811 V 43.40454 h 47.24406 v 26.45669 h 15.1181 V 43.40454 h 47.2441 v 26.45669 h 15.1181 V 43.40454 h 47.2441 v 26.45669 h 15.1182 V 43.40454 h 47.244 v 26.45669 h 15.1182 V 43.40454 h 47.2441 v 26.45669 h 15.1181 V 43.40454 h 47.2441 v 26.45669 h 15.1181 V 43.40454 h 47.2441 v 26.45669 h 15.1181 V 43.40454 Z"
+       style="fill:none;stroke:#000000"
+       id="path18"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path839"
+       style="fill:none;stroke:#000000"
+       d="M 1398.7014,159.23132 V 106.31793 H 45.630549 v 52.91339 h 15.11811 v -26.45669 h 15.118107 v 26.45669 h 47.244104 v -26.45669 h 15.11811 v 26.45669 h 47.24409 v -26.45669 h 15.11811 v 26.45669 h 47.2441 v -26.45669 h 15.11811 v 26.45669 h 47.24409 v -26.45669 h 15.11811 v 26.45669 h 47.2441 v -26.45669 h 15.11811 v 26.45669 h 47.24409 V 132.77463 H 450.04 v 26.45669 h 47.2441 v -26.45669 h 15.11811 v 26.45669 h 47.24409 v -26.45669 h 15.11811 v 26.45669 h 47.2441 v -26.45669 h 15.11811 v 26.45669 h 47.24409 v -26.45669 h 15.11811 v 26.45669 h 47.24409 v -26.45669 h 15.11812 v 26.45669 h 47.24409 v -26.45669 h 15.11811 v 26.45669 h 47.24409 v -26.45669 h 15.11811 v 26.45669 h 47.2441 v -26.45669 h 15.11811 v 26.45669 h 47.24406 v -26.45669 h 15.1181 v 26.45669 h 47.2441 v -26.45669 h 15.1181 v 26.45669 h 47.2441 v -26.45669 h 15.1182 v 26.45669 h 47.244 v -26.45669 h 15.1182 v 26.45669 h 47.2441 v -26.45669 h 15.1181 v 26.45669 h 47.2441 v -26.45669 h 15.1181 v 26.45669 h 47.2441 v -26.45669 h 15.1181 v 26.45669 z" />
+  </g>
+</svg>
